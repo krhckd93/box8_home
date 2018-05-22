@@ -1,0 +1,33 @@
+{
+  "Fusion Box": [
+    "Dal Makhni Rice Box",
+    "Chole Chawal Box",
+    "Rajma Chawal Box",
+    "Grilled Tikki Box",
+    "Paneer Masala Box"
+  ],
+  "Curries" : [
+    "Basmati Rice",
+    "Tawa Paratha",
+    "Kadhai Paneer",
+    "Raita",
+    "Butter Chicken"
+  ],
+  "Biryani": [
+    "Shahi Panner Biryani",
+    "Firangi Subz Biryani",
+    "Chicken Tikka Biryani",
+    "Murg Dum Biryani"
+  ],
+  "Wraps": [
+    "Paneer Wrap",
+    "Chicken Wrap",
+    "Mayo Wrap",
+    "Tikki Wrap",
+    "Patty Wrap"
+  ],
+  "Ice Cream": [
+    "Tender CocoNut",
+    "Sheer Khurma"
+  ]
+}
